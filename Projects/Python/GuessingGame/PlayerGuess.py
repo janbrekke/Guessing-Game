@@ -1,3 +1,15 @@
+##############################################################
+# date: 2019/01/19
+# name: Jan Brekke
+# description: Classical guessing game written in Python
+#
+##############################################################
+# "Game" ask you to guess the secret number. It will let you #
+# know if you're too high, or too low. It will aslo print    #
+# out the total amount of attempts it took to find the       #
+# correct number.                                            #
+##############################################################
+
 import random
 
 guessesused = int(0)

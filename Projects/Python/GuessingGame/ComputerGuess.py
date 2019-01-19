@@ -1,3 +1,16 @@
+##############################################################
+# date: 2019/01/19
+# name: Jan Brekke
+# description: Classical guessing game written in Python
+#
+##############################################################
+# You are the "Game Master" now..                            #
+# You set a secret number, and the computer will try to      #
+# figure out what it is. A "fancy" type effect have been     #
+# added to make the game look like the computer is talking   #
+# back to you..                                              #
+##############################################################
+
 import random
 import time
 import sys
